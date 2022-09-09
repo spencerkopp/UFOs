@@ -23,3 +23,7 @@ The top portion of the home page:
 ## Summary
 
 One drawback of this design is that with a large data set, some searches can result in a very long table. For example, filtering results for only the country of the US results in a long page. An improvement could be to split results into additional pages for results over a certain length. 
+
+## Resources
+
+The original information used in the table can be found under the static and js folders, titled data.js.
