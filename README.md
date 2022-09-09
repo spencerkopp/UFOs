@@ -26,4 +26,4 @@ One drawback of this design is that with a large data set, some searches can res
 
 ## Resources
 
-The original information used in the table can be found under the static and js folders, titled data.js. The D3 library is used to produce the dynamic web elements. 
+The original information used in the table can be found under the static and js folders, titled data.js. The D3 library is used to produce the dynamic web elements. CSS sheet is used to style the look of HTML.
